@@ -11,4 +11,7 @@
 
 ## 活動履歴
 
-- 2015/4/15 発足
+- 2015/04/15 発足
+    - [中央線.JSの機運について #chuosenjs](http://togetter.com/li/816460)
+- 2015/05/04 #0 「開眼！JavaScript」読書会 at トゥギャッター株式会社
+    - [中央線.JS 第0回 まとめ #chuosenjs](http://togetter.com/li/816611)
